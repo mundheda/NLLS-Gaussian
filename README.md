@@ -84,3 +84,5 @@ Reason : As we add Regularisation term (lenda), LM prevents overfitting to the n
 Implement basic ICP algorithm with (given) known correspondences. 
 
 Let X be your point cloud observed from the initial position. Your robot moved and observed P1 as your current point cloud. Same with P2 under a different transformation. Now you wish to apply ICP to recover transformation between (X & P1) and (X & P2). Use *root mean squared error (rmse)* as the error metric.
+
+
