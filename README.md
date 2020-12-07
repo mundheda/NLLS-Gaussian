@@ -1,4 +1,4 @@
-# NLLS-Gaussian_ICP
+# NLLS-Gaussian + ICP Coding
 Calculating and Comparing Non Linear Least Squares for Gaussian Functions
 
 ## Simple Non-Linear least squares for Gaussian function
